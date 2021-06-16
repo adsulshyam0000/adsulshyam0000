@@ -95,7 +95,7 @@
 <img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/github.svg" alt="github" width="40" height="40"/> 
 <img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/windows10.svg" alt="Windows-10" width="40" height="40"/>
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/windows10.svg" alt="Windows-10" width="80" height="40"/>
 
 </p>
 
