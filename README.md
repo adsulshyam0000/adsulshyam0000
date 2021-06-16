@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Developer.gif" width="200px">
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/Developer.gif" width="200px">
 </p>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://adsulshyam0000.github.io/CodeWithSky/"> Shyam Adsul </a><img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Developer.gif" width="65px"></h1>
 
