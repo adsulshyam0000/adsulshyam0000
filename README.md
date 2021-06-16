@@ -88,13 +88,13 @@
 <img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
 <img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/adsulshyam0000/images/html5-original-wordmark.svg" alt="html5" height="40"/> 
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/adsulshyam0000/images/css3-original-wordmark.svg" alt="css3" height="40"/> 
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/adsulshyam0000/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/adsulshyam0000/images/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/adsulshyam0000/images/github.svg" alt="github" width="40" height="40"/> 
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/adsulshyam0000/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/adsulshyam0000/images/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Imageshtml5-original-wordmark.svg" alt="html5" height="40"/> 
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/css3-original-wordmark.svg" alt="css3" height="40"/> 
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/github.svg" alt="github" width="40" height="40"/> 
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ### :zap: GitHub Trophies 🏆
