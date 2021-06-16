@@ -118,7 +118,5 @@
  <a href="https://t.me/adsulshyam0000" target="blank"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/telegram(color).png"  alt="Shyam's Telegram" width="40px" /></a>
 <a href="https://wa.me/918999163442" target="blank"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/whatsapp(color).png" alt="Shyam's Whatsapp" width="40px" /></a>
 <a href="https://github.com/adsulshyam0000" target="blank"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/github_new.png" alt="Shyam's GitHub" width="40px"/></a> 
-
-</p>
-
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/marquee.svg"</> 
+</p> 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/marquee.svg"/> 
