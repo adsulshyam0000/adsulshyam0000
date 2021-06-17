@@ -97,8 +97,9 @@
 
 ### :zap: GitHub Trophies 🏆
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <a href = "https://github-profile-trophy.vercel.app/?adsulshyam0000=ryo-ma&no-bg=true">
     <img src="https://github-profile-trophy.vercel.app/?username=adsulshyam0000&theme=juicyfresh&row=2&column=4&margin-w=20&margin-h=15"/>
   </a>
 </p>
