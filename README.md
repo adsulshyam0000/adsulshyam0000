@@ -111,7 +111,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adsul-shyam-apcoer/"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/linked(color).png" alt="Shyam's linkedin" width="40px" /></a>  
-<a href="https://www.instagram.com/adsul_shyam//" target="blank"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/insta(color).png" alt="Shyam's Instagram" width="40px" /></a>
+<a href="https://www.instagram.com/adsul_shyam/" target="blank"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/insta(color).png" alt="Shyam's Instagram" width="40px" /></a>
 <a href="https://www.facebook.com/adsulshyam0000/" target="blank"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/facebook(color).png" alt="Shyam's Facebook" width="40px" /></a>
  <a href="https://t.me/adsulshyam0000" target="blank"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/telegram(color).png"  alt="Shyam's Telegram" width="40px" /></a>
 <a href="https://wa.me/918999163442" target="blank"><img align="center" src="https://github.com/adsulshyam0000/adsulshyam0000/blob/main/Images/whatsapp(color).png" alt="Shyam's Whatsapp" width="40px" /></a>
